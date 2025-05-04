@@ -6,7 +6,6 @@ Alumni Connect Network is a web platform that bridges the gap between students a
 
 - [About the Project](#about-the-project)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Available Scripts](#available-scripts)
@@ -39,11 +38,7 @@ Key modules include:
 
 ---
 
-## Screenshots
 
-> _Add screenshots here to showcase the dashboard, job board, mentorship features, etc._
-
----
 
 ## Project Structure
 
